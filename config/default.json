@@ -1,0 +1,9 @@
+{
+	"facebook": {
+		"access_token": "test_access_token",
+		"verify_token": "test_verify_token"
+	},
+	"google_maps": {
+		"key": "test_maps_key"
+  }
+}
